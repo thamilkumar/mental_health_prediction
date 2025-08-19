@@ -1,12 +1,12 @@
 
-# 📌 Project Title:  
+#  Project Title:  
 **Hyperparameter-Tuned SGD and Gradient Boosting for Mental Health Prediction**
 
-### 🧠 Overview
+# Overview
 
 This project aims to enhance the accuracy of mental health condition predictions using machine learning models like **Stochastic Gradient Descent (SGD)** and **Gradient Boosting (GB)**. The models are optimized with **hyperparameter tuning** and **Recursive Feature Elimination (RFE)** to improve decision-making in mental health support systems.
 
-### 🛠️ Technologies Used
+# Technologies Used
 
 - **Python** (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 - **Machine Learning Models:** SGDClassifier, GradientBoostingClassifier
@@ -15,9 +15,9 @@ This project aims to enhance the accuracy of mental health condition predictions
 - **Data Visualization:** Matplotlib, Seaborn
 - **Web App Interface:** HTML (optional)
 
-### 📂 Project Structure
+# Project Structure
 
-```plaintext
+
 mental-health-project/
 │
 ├── dataset/                      # Raw and cleaned datasets
@@ -30,7 +30,7 @@ mental-health-project/
 └── main.py                       # Main training script
 ```
 
-### 🚀 How to Run the Project
+###How to Run the Project
 
 1. Clone the repo:
 
@@ -57,17 +57,17 @@ mental-health-project/
    python app/app.py
    ```
 
-### 📊 Results
+### Results
 - RFE selected optimal features improving model interpretability.
 - GridSearchCV improved accuracy by tuning key hyperparameters.
 - Gradient Boosting outperformed SGD in precision and recall.
 
-### 📌 Future Work
+###  Future Work
 - Deploy the model via Flask/Streamlit
 - Improve dataset size and diversity
 - Integrate user feedback loop
 
-### 👨‍💻 Author
+###  Author
 
 **Thamilkumar**  
 📧 [thamilkumar003@gmail.com](mailto:thamilkumar003@gmail.com)  
